@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Online Marketing for english school and team leadership
 - 🌱 I’m currently learning Development at <a href="https://github.com/betrybe" target="_blank">Trybe</a>.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jessemedeiroslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jessemedeiroslima/" target="_blank">Linkedin | Jessé Medeiros</a>
 
 <div>
 <a href="https://github.com/jessemed">
